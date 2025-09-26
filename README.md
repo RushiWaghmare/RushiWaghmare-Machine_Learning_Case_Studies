@@ -96,8 +96,7 @@ python Brain_Tumor.py
 
 - Each project folder contains **plots, charts, or graphical outputs** generated from scripts  
 - Workflow diagrams for better understanding of ML processes  
-- Example:  
-  ![Example Graph](RoadMaps/workflow.png) *(Replace with actual images if available)*  
+
 
 ---
 
