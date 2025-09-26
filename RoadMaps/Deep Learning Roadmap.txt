@@ -1,0 +1,82 @@
+1) (BASE) Introduction to Neural Network :
+	Loss Funtion,Optimiser,Gradinet Decent,SGD Adagrad,RMSprop Adam optimiser
+
+2) Artificial Neural Network :
+	similar to ML ,deploy prjects
+	Library : PyTorch,Keras,TensorFlow
+
+3) Convolutional Neural Network :
+	Images,video classification,Maths
+   -->Transfer learning(Technique)
+	(Vgg16,Alexnet)
+   -->Object Detection: RCCN, Masked RCNN, SSD, YOLO
+	
+4) NLP (Natural Language processing) /RNN :
+	-->LSTM,CRU,Bidirectional LSTM
+	-->Word Embeddings,Word2vec
+	-->Encoder and Decoders,Attention Models
+	-->Transformers
+	-->BERT
+	LIB: HuggingFace, Ktrain
+
+
+1. Prerequisites
+Mathematics: Linear Algebra, Calculus, Probability, and Statistics.
+Programming: Proficiency in Python, familiarity with libraries like NumPy, Pandas, and Matplotlib.
+
+2. Fundamentals of Machine Learning
+Supervised Learning: Linear Regression, Logistic Regression.
+Unsupervised Learning: Clustering (K-means, Hierarchical), Dimensionality Reduction (PCA, t-SNE).
+Evaluation Metrics: Accuracy, Precision, Recall, F1-score, ROC-AUC.
+
+3. Introduction to Neural Networks
+Perceptron and Multilayer Perceptron (MLP): Basics of neural networks, activation functions (ReLU, Sigmoid, Tanh), forward and backward propagation.
+Training Neural Networks: Cost functions, Gradient Descent, Stochastic Gradient Descent, and learning rate.
+
+4. Deep Learning Basics
+Deep Neural Networks: Understanding deep networks, hidden layers, and fully connected layers.
+Optimization Techniques: Adam, RMSprop, Learning Rate Scheduling, Regularization (L2, Dropout).
+Hyperparameter Tuning: Grid Search, Random Search.
+
+5. Convolutional Neural Networks (CNNs)
+CNN Architecture: Convolutional layers, Pooling layers, Fully connected layers.
+Popular Models: LeNet, AlexNet, VGG, ResNet, Inception.
+Applications: Image Classification, Object Detection, Image Segmentation.
+
+6. Recurrent Neural Networks (RNNs)
+RNN Basics: Understanding sequential data, RNN architecture, Backpropagation Through Time (BPTT).
+Advanced RNNs: Long Short-Term Memory (LSTM), Gated Recurrent Unit (GRU).
+Applications: Time Series Forecasting, Natural Language Processing (NLP).
+
+7. Natural Language Processing (NLP)
+Text Preprocessing: Tokenization, Stemming, Lemmatization, Word Embeddings (Word2Vec, GloVe).
+Sequence Models: RNNs, LSTMs, Transformers.
+Advanced Models: BERT, GPT, T5.
+
+8. Generative Models
+Autoencoders: Variational Autoencoders (VAEs).
+Generative Adversarial Networks (GANs): Understanding GANs, DCGAN, Conditional GANs.
+Applications: Image generation, Data augmentation, Style transfer.
+
+9. Advanced Topics
+Transfer Learning: Using pre-trained models, Fine-tuning, Domain adaptation.
+Reinforcement Learning: Q-Learning, Deep Q-Networks (DQN), Policy Gradients.
+Self-Supervised Learning: Contrastive learning, SimCLR, BYOL.
+
+10. Deployment and Production
+Model Serving: Flask, FastAPI, TensorFlow Serving, TorchServe.
+Model Optimization: Quantization, Pruning, Knowledge Distillation.
+Deployment: Deploying models to cloud (AWS, Google Cloud, Azure), Edge deployment.
+
+11. Projects and Case Studies
+Image Classification: Build a CNN for a classification task.
+NLP Task: Implement a Transformer model for text generation or sentiment analysis.
+Custom GAN: Develop a GAN for a specific generative task.
+End-to-End Project: Build, optimize, and deploy a deep learning model.
+
+12. Continuous Learning
+Research Papers: Stay updated with recent advancements (arXiv, NeurIPS, CVPR).
+Competitions: Participate in Kaggle competitions, challenges.
+Community Involvement: Engage in forums, contribute to open-source projects.
+
+	

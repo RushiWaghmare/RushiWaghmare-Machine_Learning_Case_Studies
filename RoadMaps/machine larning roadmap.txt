@@ -1,0 +1,36 @@
+3-5 hours study consistently
+Python
+
+GitHub : 2 weeks
+
+DSA : 6 Months
+
+SQL : 2 Months
+
+Mathmatics and Statistics : 3 months
+	Linear Algebra
+	Calculas
+	Probablity
+	Stastistics
+
+Data Handling : 2 months
+	pandas
+	numpy
+	matplot
+	seaborn
+
+Machine Learning : 3-4 months
+ Supervised and Unsupervised
+ Unsemble learning 
+	TensorFlow
+	PyTorch
+	scikit learns
+
+Deep Learning : 3 months
+ NLP (Natural Language Processing)
+ Computer Vision
+
+Python Frameworks: 2 months
+	Flask
+	Django
+	Doker
